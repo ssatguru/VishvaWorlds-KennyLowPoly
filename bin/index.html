@@ -229,12 +229,8 @@
                         <table >
                             <tr>
                                 <td>
-                                    name <input type="text" id="genName" >
-                                    space 
-                                    <select id="genSpace" title="space for translation and rotation">
-                                        <option value="local" >local</option>
-                                        <option value="world">world</option>
-                                    </select>
+                                    <label for="genName">name</label>
+                                    <input type="text" id="genName">
                                 </td>
                             </tr>
                             <tr>
@@ -285,9 +281,18 @@
                                             <td></td>
                                         </tr>
                                     </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
                                     <button id="transRefresh"><span class="ui-icon ui-icon-refresh" title="refresh"></span></button>
                                     <button id="transBake">bake</button>
                                     <button id="gridSnap">grid snap</button>
+                                    space 
+                                    <select id="genSpace" title="space for translation and rotation">
+                                        <option value="local" >local</option>
+                                        <option value="world">world</option>
+                                    </select>
                                 </td>
                             </tr>
                             <tr>
@@ -304,13 +309,6 @@
                                     <button id="instMesh"><span class="flip ui-icon  ui-icon-newwin" title="instance"></span></button>
                                     <button id="downMesh"><span class="ui-icon ui-icon-arrowthickstop-1-s" title="download mesh"></span> </button>
                                     <button id="delMesh"><span class="ui-icon ui-icon-trash" title="delete"></span> </button>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <button id="parentMesh">parent</button>
-                                    <button id="removeParent">remove parent</button>
-                                    <button id="removeChildren">remove children</button>
                                 </td>
                             </tr>
                             <tr>
@@ -340,6 +338,19 @@
                                 <td>
                                     <button id="addParticles" >add particles</button>
                                     <button id="remParticles" >remove particles</button>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <h3 class="mesh">Parent Child</h3>
+                    <div id="parChild" class="mesh">
+                        <table >
+                            <tr>
+                                <td>
+                                    <button id="parentMesh">parent</button>
+                                    <button id="removeParent">remove parent</button>
+                                    <button id="removeChildren">remove children</button>
                                 </td>
                             </tr>
                         </table>
