@@ -1,2 +1,2 @@
-var defaultWorld = "world1";
+var defaultWorld = "fantasy-town";
 var noEditWorlds = [""];
