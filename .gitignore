@@ -4,3 +4,4 @@ node_modules
 ig_bin
 **/ig_*.*
 vishva/worlds/sample.png
+*.js.map
