@@ -1,6 +1,10 @@
 userAssets=[
   {"d":"curated",
    "f":[
+    {"d":"characters",
+     "f":[
+      "starterAvatars.babylon"
+    ]},
     {"d":"fantasy-town-fountains",
      "f":[
       {"d":"fountainCenter",
@@ -3022,5 +3026,15 @@ userAssets=[
         "TropicalSunnyDay_pz.jpg"
       ]}
     ]}
+  ]},
+  {"d":"html",
+   "f":[
+    "ig_kenney-fantasy-town-kit.png",
+    "ig_kenney-fantasy-town-kit_Preview.png",
+    "ig_kenney_natureKit_2.1.png",
+    "ig_kenney_natureKit_2.1_Preview.png",
+    "introScreen.html",
+    "kenney-fantasy-town-kit.jpg",
+    "kenney_natureKit_2.1.jpg"
   ]}
 ]
