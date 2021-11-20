@@ -1,9 +1,22 @@
 userAssets=[
+  {"d":"audio",
+   "f":[
+    "short-intro.ogg"
+  ]},
   {"d":"curated",
    "f":[
     {"d":"characters",
      "f":[
-      "starterAvatars.babylon"
+      {"d":"female-avatar",
+       "f":[
+        "female-avatar.babylon",
+        "thumbnail.png"
+      ]},
+      {"d":"male-avatar",
+       "f":[
+        "male-avatar.babylon",
+        "thumbnail.png"
+      ]}
     ]},
     {"d":"fantasy-town-fountains",
      "f":[
