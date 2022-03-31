@@ -1,6 +1,7 @@
 userAssets=[
   {"d":"audio",
    "f":[
+    "Hello.ogg",
     "short-intro.ogg"
   ]},
   {"d":"curated",
