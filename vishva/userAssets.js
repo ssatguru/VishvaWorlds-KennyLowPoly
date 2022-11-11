@@ -2,7 +2,9 @@ userAssets=[
   {"d":"audio",
    "f":[
     "Hello.ogg",
-    "short-intro.ogg"
+    "short-intro.ogg",
+    "soft-music-small-mono.ogg",
+    "waterwheel.ogg"
   ]},
   {"d":"curated",
    "f":[
