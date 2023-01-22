@@ -1,6 +1,8 @@
 userAssets=[
   {"d":"audio",
    "f":[
+    "female-tiring-day.ogg",
+    "footstep_carpet_000.ogg",
     "Hello.ogg",
     "short-intro.ogg",
     "soft-music-small-mono.ogg",
@@ -3045,10 +3047,6 @@ userAssets=[
   ]},
   {"d":"html",
    "f":[
-    "ig_kenney-fantasy-town-kit.png",
-    "ig_kenney-fantasy-town-kit_Preview.png",
-    "ig_kenney_natureKit_2.1.png",
-    "ig_kenney_natureKit_2.1_Preview.png",
     "introScreen.html",
     "kenney-fantasy-town-kit.jpg",
     "kenney_natureKit_2.1.jpg"
