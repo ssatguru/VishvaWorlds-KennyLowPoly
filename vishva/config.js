@@ -5,5 +5,8 @@ var curatedConfig = {
   reuseMaterial: true,
   collision: true,
   shadow: true,
+  characters:{
+    scale: [1, 1, 1],
+  }
 };
 
