@@ -12,15 +12,15 @@ userAssets=[
    "f":[
     {"d":"characters",
      "f":[
-      {"d":"female-avatar",
-       "f":[
-        "female-avatar.babylon",
-        "thumbnail.png"
-      ]},
       {"d":"male-avatar",
        "f":[
         "male-avatar.babylon",
         "thumbnail.png"
+      ]},
+      {"d":"Worker",
+       "f":[
+        "thumbnail.png",
+        "Worker.gltf"
       ]}
     ]},
     {"d":"fantasy-town-fountains",
