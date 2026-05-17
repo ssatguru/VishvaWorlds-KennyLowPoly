@@ -1,4 +1,4 @@
-var defaultWorld = "fantasy-town.json";
+var defaultWorld = "";
 var noEditWorlds = [""];
 var curatedConfig = {
   scale: [3, 3, 3],

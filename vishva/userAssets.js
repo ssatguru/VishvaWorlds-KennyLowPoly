@@ -3052,3 +3052,7 @@ userAssets=[
     "kenney_natureKit_2.1.jpg"
   ]}
 ]
+worlds=[
+  "fantasy-town.json",
+  "fantasy-town.tar.gz"
+]
