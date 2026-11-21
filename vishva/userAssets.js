@@ -1,4 +1,4 @@
-userAssets=[
+assets=[
   {"d":"audio",
    "f":[
     "female-tiring-day.ogg",
@@ -3053,6 +3053,5 @@ userAssets=[
   ]}
 ]
 worlds=[
-  "fantasy-town.json",
   "fantasy-town.tar.gz"
 ]
