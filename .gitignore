@@ -1,7 +1,7 @@
 nbproject
 node_modules
 *.bat
-ig_bin
+ig_dist
 **/ig_*.*
 vishva/worlds/sample.png
 *.js.map
